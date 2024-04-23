@@ -1,15 +1,22 @@
 @media (prefers-color-scheme: dark){
 	body {
-	  background-color:#42;
-      	  color:#FF;
-		}
+		background:#000;
+		color: #FF;
+	}
+}
+
+@media (prefers-color-scheme: light){
+	body {
+		background:#FF;
+		color: #42;
+	}
+}
 
 body {
   margin: 40px auto;
   max-width: 650px;
-  line-height: 1.6;
+  line-height: 1.2;
   font-family:"Segoe UI", Segoe, Tahoma, Geneva, sans-serif;
   font-size: 18px;
-  color: #42;
   padding: 0 8px;
 }
