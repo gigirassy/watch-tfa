@@ -3,12 +3,18 @@
 		background:#000;
 		color: #FFFFFF;
 	}
+	a{
+		color: #3118ED;
+	}
 }
 
 @media (prefers-color-scheme: light){
 	body {
 		background:#FFFFFF;
 		color: #42;
+	}
+	a{
+		color: #920002;
 	}
 }
 
