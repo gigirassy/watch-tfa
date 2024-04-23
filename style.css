@@ -2,6 +2,7 @@ body {
   margin: 40px auto;
   max-width: 650px;
   line-height: 1.6;
+  font-family:"Segoe UI", Segoe, Tahoma, Geneva, sans-serif;
   font-size: 18px;
   color: #42;
   padding: 0 8px;
